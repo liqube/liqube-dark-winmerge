@@ -1,16 +1,31 @@
 # ***Liqube Dark Theme*** for WinMerge
 
-A theme based on 'Liqube Dark Code'.
+A theme based on *Liqube Dark Code*.
 
-Made for WinMerge 2.x (at the time of making, 2.16.4.0 x64) ![](https://winmerge.org/)
+Made for WinMerge 2.x (2.16.4.0, at the time of making) ![](https://winmerge.org/)
 
 # How to install the theme
 
-* Double-click the colors *.reg* file to import settings
-* Your current *WinMerge* color settings will be overwritten
+* Open *WinMerge* options
+* Click *Import* and point it to *liqube-dark-colors.ini*
 
 # How to set fonts to *Source Code Pro*:
 
-* Unpack and install *.ttf* files from *Source Code Pro Font.zip*
-* Double-click the font *.reg* file to import settings
-* Your current *WinMerge* font setting will be overwritten
+* Grab both *.ttf* files from *fonts/*
+* Right-click in *Explorer* and choose to install the
+* Open *WinMerge* options
+* Click *Import* and point it to *liqube-dark-fonts.ini*
+
+# Screenshots
+
+## Directory compare
+
+![](/screenshots/directory-compare.png)
+
+## Editor
+
+![](/screenshots/editor.png)
+
+## Editor diff
+
+![](/screenshots/editor-diff.png)
