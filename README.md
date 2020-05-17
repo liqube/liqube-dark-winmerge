@@ -2,7 +2,7 @@
 
 A theme based on *Liqube Dark Code*.
 
-Made for WinMerge 2.x (2.16.4.0, at the time of making) ![](https://winmerge.org/)
+Made for *WinMerge 2.x* (2.16.4.0, at the time of making) ![](https://winmerge.org/)
 
 # How to install the theme
 
